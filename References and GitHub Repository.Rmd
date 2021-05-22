@@ -1,0 +1,9 @@
+### References  ###
+
+
+
+- Martin, J. H., & Jurafsky, D. (2009). Speech and language processing. Pearson International Edition. ISBN 978-0135041963
+
+- Katz, S. (1987). *Estimation of probabilities from sparse data for the language model component of a speech recognizer*. Acoustics, Speech and Signal Processing, IEEE Transactions on, 35(3), 400-401.
+
+- Stanford Coursera Course for Natural Language Pro`cessing (https://www.coursera.org/course/nlp)

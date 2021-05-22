@@ -1,0 +1,7 @@
+### How does it work?
+
+<p>In short, the model takes the last few words of a sentence (a 4-gram if four words are used, 3-gram for three words, etc.) and uses statistics about a large collection of English sentences to find the most probable next word, given that set of sentences.</p> 
+
+<p>
+The resulting language model is stored in a set of data files: a file for unigrams, a file for bigrams, etc. The information in these files is similar to the <a href="http://www.speech.sri.com/projects/srilm/manpages/ngram-format.5.html">ARPA format files</a> for n-gram models.
+</p>

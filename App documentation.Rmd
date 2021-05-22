@@ -1,0 +1,11 @@
+The goal of this app is to predict the next word, given a partial English sentence.  
+
+This Shiny app was developed for the *Capstone Project*  of the 
+[Johns Hopkins Coursera Data Science 
+Specialization](https://www.coursera.org/specializations/jhu-data-science). This Capstone Project is designed in partnership with [Swiftkey](http://swiftkey.com/).
+
+
+
+
+
+

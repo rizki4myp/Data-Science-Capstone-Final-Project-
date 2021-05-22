@@ -1,0 +1,5 @@
+###  How to use the application. ###
+
+<ol>
+<li> The user enters a partial sentence in the <strong>text input field</strong> on the right.</li>
+<li> The <strong>predicted word</strong> appears in black. </li>
